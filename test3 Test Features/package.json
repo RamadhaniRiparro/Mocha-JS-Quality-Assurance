@@ -1,0 +1,12 @@
+{
+  "name": "mocha-js",
+  "version": "1.0.0",
+  "description": "mocha",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}
